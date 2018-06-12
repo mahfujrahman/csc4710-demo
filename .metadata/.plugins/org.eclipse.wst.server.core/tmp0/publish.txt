@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Jun 11 22:27:59 EDT 2018
+org.eclipse.jst.j2ee.server\:jstl-1.2=WEB-INF/lib/jstl-1.2.jar
+org.eclipse.jst.j2ee.server\:servlet-api=WEB-INF/lib/servlet-api.jar

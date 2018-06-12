@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+F:\3. Wayne State University\CSC 4710 (Introduction to Database Management Systems)\Final Project\Code\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2906723017.index
+2340838375.index
+732229824.index
+3712452215.index
+1043583260.index
+825729874.index
+432687718.index
